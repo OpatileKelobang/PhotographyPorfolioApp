@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Black Carpet Photography</string>
+    <string name="capeTown">Cape Town</string>
+    <string name="image_place_holder">Image Place Holder</string>
+    <string name="photographer_profile">Photographer Profile</string>
+    <string name="email">Email</string>
+    <string name="black_carpet_logo">Black Carpet Logo</string>
+    <string name="black_carpet">BLACK CARPET</string>
+    <string name="followers">124K</string>
+    <string name="followers_text">Followers</string>
+    <string name="following">970</string>
+    <string name="following_text">Following</string>
+    <string name="location">Cape Town, South Africa</string>
+    <string name="email_contact">info@blackcarpet.co.za</string>
+    <string name="phone">Phone</string>
+    <string name="phone_contact">021 701 4896</string>
+    <string name="address_text">Address</string>
+    <string name="address">12 Chasmanate Close\n Steenberg \n Cape Town</string>
+    <string name="image_details">Image Details</string>
+    <string name="share">Share</string>
+    <string name="logo_main">Main Logo</string>
+
+    <!-- preferences -->
+    <string name="my_preferences">"co.za.bogote.MyPref"</string>
+    <string name="my_preferences_key">"co.za.bogote.MyPrefKey"</string>
+    <string name="button_skip">SKIP</string>
+    <string name="button_next">NEXT</string>
+    <string name="button_start">START</string>
+    <string name="settings">Clear Preferences</string>
+    <string name="img_content_description">Idea Crown</string>
+    <string name="keep_calm">KEEP CALM</string>
+    <string name="slide_1_desc">AND KEEP THE CAMERA CLICKING!</string>
+
+</resources>
